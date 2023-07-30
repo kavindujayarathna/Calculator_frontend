@@ -22,3 +22,5 @@ jobs:
         node-version: ${{ matrix.node-version }}
         cache: 'npm'
     - run: npm ci
+    - name: Restart pm2
+      run: sudo pm2 restart calculator-frontend
