@@ -7,6 +7,11 @@ body {
     height: 100vh;
   }
 
+  h1{
+   padding-right: 50px;
+   color: #404040;
+  }
+
 
   
   .calculator {
