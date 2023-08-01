@@ -8,7 +8,7 @@ async function calculate() {
   const { value } = result;
   
   try {
-    const apiUrl = 'http://13.235.79.169:8080/calculate';  
+    const apiUrl = 'http://15.206.153.245:8080/calculate';  
 
     const requestBody = {
       value,
