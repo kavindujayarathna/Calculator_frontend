@@ -6,7 +6,12 @@ body {
     align-items: center;
     height: 100vh;
   }
-  
+
+  h1{
+   padding-right: 50px;
+   color: #404040;
+  }
+
   .calculator {
     width: 250px;
     background-color: #ffffff;
