@@ -8,10 +8,10 @@ body {
   }
 
   h1{
-    padding-right: 50px;
-    color: #404040;
-   }
-  
+   padding-right: 50px;
+   color: #404040;
+  }
+
   .calculator {
     width: 250px;
     background-color: #ffffff;
