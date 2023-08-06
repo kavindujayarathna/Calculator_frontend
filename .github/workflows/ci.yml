@@ -23,4 +23,4 @@ jobs:
         cache: 'npm'
     - run: npm ci
     - name: Restart pm2
-      run: sudo pm2 restart calculator-frontend
+      run: sudo pm2 restart --name calculator-frontend
